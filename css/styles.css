@@ -1,0 +1,17 @@
+/**
+ * base styles and typography
+ * ---------------
+ */
+:root {
+  --blue: #6fc4ff;
+  --orange: #f5a623;
+  --purple: #b86bfc;
+  --teal: #50e3c2;
+}
+
+.popover {
+  position: absolute;
+
+  top: 300px;
+  left: 500px;
+}
